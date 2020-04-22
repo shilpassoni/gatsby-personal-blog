@@ -1,6 +1,9 @@
 backend:
   name: test-repo
 
+  name: github
+  repo: shilpassoni/gatsby-personal-blog
+
 media_folder: static/assets
 public_folder: assets
 
